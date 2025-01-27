@@ -50,6 +50,7 @@ The dataset contains 6,687 rows and has undergone a quality check in Power Query
 - A further analysis of customer service is conducted to investigate how customer service impacts churn. 
 ### Step 3. Dashboard Development
 ### Step 4. Actionable Insights and Recommendations
+<img width="1178" alt="Image" src="https://github.com/user-attachments/assets/8e2d0aca-17ec-4ba5-be18-e326f1f5c09b" />
 
 ## Summary
 This project successfully delivered a comprehensive analysis of customer churn by identifying key factors such as age, contract type, and geographic trends. The retention strategies proposed—including enhancing customer support, aligning plans with usage, and promoting group memberships—are designed to reduce churn. This analysis equips senior managers, sales teams, and customer success team with the insights and solutions needed to improve customer retention and drive profitability.
