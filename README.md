@@ -24,6 +24,9 @@ This analysis is designed to provide senior managers with a clear, interactive d
 
 ## Data Description
 - Data dictionary
+  
+  <img width="768" alt="Image" src="https://github.com/user-attachments/assets/41ab55e5-c249-4257-91c3-93eee3a9ca08" />
+  
 - Source: https://assets.datacamp.com/production/repositories/5993/datasets/00187c4ac7192534646c5b71b260f0de880c6954/Case%20Study%20Analyzing%20Customer%20Churn%20in%20Power%20BI%20-%20Exercises%20and%20Datasets.pdf
 
 ## Workflow
