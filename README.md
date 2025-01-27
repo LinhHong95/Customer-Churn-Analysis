@@ -48,9 +48,21 @@ The dataset contains 6,687 rows and has undergone a quality check in Power Query
   - Reason (e.g., Competitor, Attitude, Dissatisfaction, Price)
   - Services
 - A further analysis of customer service is conducted to investigate how customer service impacts churn. 
-### Step 3. Dashboard Development
+### Step 3. Interactive Dashboard Development
+#### 3.1. Churn profile
+<img width="1177" alt="Image" src="https://github.com/user-attachments/assets/5203f60d-0c80-4bc5-ab31-b2509c0d0014" />
+
+#### 3.2. Churn reason
+<img width="1179" alt="Image" src="https://github.com/user-attachments/assets/2ba4bc56-328b-4f5b-9b70-4eaf1137398f" />
+
+#### 3.3. Churn pattern
+<img width="1178" alt="Image" src="https://github.com/user-attachments/assets/a5db6371-5e50-43e2-adf2-6eeae855c356" />
+
+#### 3.4. Customer Service
+<img width="1179" alt="Image" src="https://github.com/user-attachments/assets/5187e296-3695-467a-a424-f842921920c1" />
+
 ### Step 4. Actionable Insights and Recommendations
 <img width="1178" alt="Image" src="https://github.com/user-attachments/assets/8e2d0aca-17ec-4ba5-be18-e326f1f5c09b" />
 
 ## Summary
-This project successfully delivered a comprehensive analysis of customer churn by identifying key factors such as age, contract type, and geographic trends. The retention strategies proposed—including enhancing customer support, aligning plans with usage, and promoting group memberships—are designed to reduce churn. This analysis equips senior managers, sales teams, and customer success team with the insights and solutions needed to improve customer retention and drive profitability.
+This project successfully delivered a comprehensive analysis of customer churn by identifying key factors such as age, contract type, and geographic trends. The retention strategies proposed—including enhancing customer support, aligning plans with usage, and promoting group memberships—are designed to reduce churn. This analysis equips Senior Managers, Sales Teams, and Customer Success Team with the insights and solutions needed to improve customer retention and drive profitability.
