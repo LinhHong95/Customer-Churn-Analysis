@@ -1,20 +1,28 @@
 # Customer-Churn-Analysis
+## Table of contents
+- [Introduction](#introduction)
+- [Business Questions](#business-questions)
+- [Target Stakeholders](#target-stakeholders)
+- [Tools and Techniques](#tools-and-techniques)
+- [Data Description](#data-description)
+- [Workflow](#workflow)
+- [Summary](#summary)
 ## Introduction
 ***What is churn?*** Customer churn refers to the percentage of customers who stop using a service over a specific period. Reducing churn improves customer retention, lowers acquisition costs, and directly enhances revenue, customer lifetime value, and profitability. 
 This analysis is designed to provide senior managers with a clear, interactive dashboard that visualizes churned users, identifies churn reasons, and presents actionable solutions to reduce churn.
 
-### Business Questions
-- Create an overview dashboard for managers that displays the churn status of users and helps identify which users are part of the churn group.
-- Develop solutions to improve the situation and reduce user churn.
-
-### Target Stakeholders
-- Sales Managers
-- Customer Success Teams
-
-### Key objectives
+**Key objectives**
 1. Develop a detailed churn profile.
 2. Identify factors contributing to churn using exploratory data analysis (EDA).
 3. Deliver actionable recommendations to reduce churn.
+
+## Business Questions
+- Create an overview dashboard for managers that displays the churn status of users and helps identify which users are part of the churn group.
+- Develop solutions to improve the situation and reduce user churn.
+
+## Target Stakeholders
+- Sales Managers
+- Customer Success Teams
 
 ## Tools and Techniques
 - **Tool**: Power BI for data analysis, data visualisation and storytelling.
