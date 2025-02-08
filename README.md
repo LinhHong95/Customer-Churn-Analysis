@@ -14,7 +14,7 @@ This analysis is designed to provide senior managers with a clear, interactive d
 **Key objectives**
 1. Develop a detailed churn profile.
 2. Identify factors contributing to churn using exploratory data analysis (EDA).
-3. Deliver actionable recommendations to reduce churn.
+3. Deliver actionable recommendations to reduce churn by 10%.
 
 ## Business Questions
 - Create an overview dashboard for managers that displays the churn status of users and helps identify which users are part of the churn group.
